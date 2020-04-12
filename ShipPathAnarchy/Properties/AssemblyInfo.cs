@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("FloatThroughCanals")]
+[assembly: AssemblyTitle("ShipPathAnarchy")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("FloatThroughCanals")]
+[assembly: AssemblyProduct("ShipPathAnarchy")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("7df2d7bc-296e-476c-b319-322ce26e5199")]
+[assembly: Guid("c475c5c6-c916-4ef8-93ef-df536f810b2c")]
 
 // Version information for an assembly consists of the following four values:
 //

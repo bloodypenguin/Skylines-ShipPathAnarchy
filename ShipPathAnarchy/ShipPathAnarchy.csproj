@@ -8,7 +8,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>FloatThroughCanals</RootNamespace>
-    <AssemblyName>FloatThroughCanals</AssemblyName>
+    <AssemblyName>ShipPathAnarchy</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

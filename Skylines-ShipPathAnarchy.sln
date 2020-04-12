@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{443EA23B-F5CC-4EDC-9326-9327E918BE01}") = "ShipPathAnarchy", "ShipPathAnarchy\ShipPathAnarchy.csproj", "{7DF2D7BC-296E-476C-B319-322CE26E5199}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DF2D7BC-296E-476C-B319-322CE26E5199}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DF2D7BC-296E-476C-B319-322CE26E5199}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DF2D7BC-296E-476C-B319-322CE26E5199}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DF2D7BC-296E-476C-B319-322CE26E5199}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
